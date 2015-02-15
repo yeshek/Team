@@ -1,9 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
 
+head{
+	font-family: "Open Sans";
+}
 body{
 	width: 980px;
 	width: 100%;
 	margin: 0 auto;
+	font-family: "Open Sans";
 }
 .navstyle{
 	margin-top: -16px;
@@ -36,9 +40,27 @@ ul.nav li{
 	display: inline;
 	padding-left: 25px;
 	font-weight: 700;
-	font-family: "Open Sans";
 	font-size: 1em;
 	color: #06bb46;
+}
+.stickysm{
+	height: 275px;
+	width: 55px;
+	z-index: 1;
+	position: fixed;
+	margin-top: 160px;
+}
+.stickysm img{
+	padding-bottom: 0;
+	margin-bottom: 0;
+	margin-top: -5px;
+}
+.herocopy{
+	width: 600px;
+	position: relative;
+	z-index: 1;
+	font-size: 1em;
+	font-weight: 400;
 }
 .hero{
 	height: 584px;
