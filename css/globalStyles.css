@@ -1,0 +1,47 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+
+body{
+	width: 980px;
+	width: 100%;
+	margin: 0 auto;
+}
+.navstyle{
+	margin-top: -16px;
+	height: 100px;
+	background: #1d1d1d; /* Old browsers */
+	background: -moz-linear-gradient(top,  #1d1d1d 0%, #2a2a2a 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1d1d1d), color-stop(100%,#2a2a2a)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #1d1d1d 0%,#2a2a2a 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #1d1d1d 0%,#2a2a2a 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #1d1d1d 0%,#2a2a2a 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #1d1d1d 0%,#2a2a2a 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d1d1d', endColorstr='#2a2a2a',GradientType=0 ); /* IE6-9 */
+}
+.header{
+	width: 980px;
+	margin: auto;
+	height; 50px;
+}
+.logo{
+	float: left;
+	margin-top: 42px;
+}
+ul.nav{
+	float: right;
+	list-style: none;
+	padding: 0px;
+	margin-top: 45px;
+}
+ul.nav li{
+	display: inline;
+	padding-left: 25px;
+	font-weight: 700;
+	font-family: "Open Sans";
+	font-size: 1em;
+	color: #06bb46;
+}
+.hero{
+	height: 584px;
+	width: 1280px;
+	margin: 0 auto;
+}
