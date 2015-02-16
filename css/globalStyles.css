@@ -439,9 +439,70 @@ h1{
 	margin-top: 15px;
 }
 .resourcessection{
-	height: 432px;
+	height: 500px;
 	width: 1280px;
 	margin: 0 auto;
+	background-color: :#2a2a2a;
+}
+.resourcesbackground{
+	position: absolute;
+	z-index: 1;
+	margin-top: -40px;
+	width: 1280px;
+	height: 500px;
+}
+.resourcescontent{
+	width: 700px;
+	position: relative;
+	z-index: 2;
+	text-align: center;
+	margin: 0 auto;
+}
+.resourcesh2 h2{
+	padding-top: 20px;
+	font-size: 3em;
+	font-weight: 400;
+	color: #fff;
+}
+.partnerships{
+	float: left;
+	width: 450px;
+	height: 300px;
+	margin-left: 150px;
+	position: relative;
+	z-index: 2;
+	text-align: center;
+}
+.partnerships img{
+	text-align: center;
+	position: relative;
+	z-index: 2;
+}
+.partnerships h3{
+	font-size: 1.7em;
+	font-weight: 400;
+	color: #fff;
+}
+.partnerships p{
+	font-size: 1.15em;
+	font-weight: 400;
+	color: #fff;
+	margin-top:-5px;
+}
+#partnershipstextlink{
+	font-size: .875em;
+	font-weight: 600;
+	color: #06bb46;
+	margin-top: 15px;
+}
+.causes{
+	float: right;
+	width: 450px;
+	height: 300px;
+	margin-left: 150px;
+	position: relative;
+	z-index: 2;
+	text-align: center;
 }
 .footer{
 	height: 326px;
