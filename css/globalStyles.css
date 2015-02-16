@@ -347,11 +347,52 @@ h1{
 	width: 980px;
 	margin: 0 auto;
 }
-.runcopy{
+.runcontent{
 	width: 490px;
 	height: 587px;
 	background-color: #f5f5f5;
 	float: left;
+}
+.runcopy{
+	width: 350px;
+	margin-top: 57px;
+	margin-left: 84px;
+}
+.runcopy h2{
+	font-size: 3em;
+	font-weight: 400;
+	color: #231f20;
+}
+.runcopy p {
+	font-size: 1.25em;
+	font-weight: 400;
+	color: #231f20;
+	margin-top: -25px;
+}
+#runeventsheader{
+	font-size: 1.25em;
+	font-weight: 600;
+	color: #231f20;
+	margin-top: 40px;
+}
+.runevents{
+	width: 350px;
+	margin-top: 30px;
+}
+.runevents p{
+	font-size: .875em;
+	font-weight: 400;
+	color: #231f20;
+	margin-top: -15px;
+}
+.runeventsbreak{
+	margin-top: 30px;
+}
+#runtextlink{
+	font-size: .875em;
+	font-weight: 600;
+	color: #06bb46;
+	margin-top: 15px;
 }
 .runphoto{
 	width: 490px;
@@ -363,11 +404,39 @@ h1{
 	height: 587px;
 	float: left;
 }
-.traincopy{
+.traincontent{
 	width: 490px;
 	height: 587px;
 	background-color: #f5f5f5;
 	float: right;
+}
+.traincopy{
+	width: 350px;
+	margin-top: 100px;
+	margin-left: 84px;
+}
+.traincopy h2{
+	font-size: 3em;
+	font-weight: 400;
+	color: #231f20;
+}
+.traincopy p{
+	font-size: 1.25em;
+	font-weight: 400;
+	color: #231f20;
+	margin-top: -25px;
+}
+#trainoptionsheader{
+	font-size: 1.25em;
+	font-weight: 600;
+	color: #231f20;
+	margin-top: 40px;
+}
+.trainoptions p{
+	font-size: .875em;
+	font-weight: 600;
+	color: #06bb46;
+	margin-top: 15px;
 }
 .resourcessection{
 	height: 432px;
