@@ -439,7 +439,7 @@ h1{
 	margin-top: 15px;
 }
 .resourcessection{
-	height: 500px;
+	height: 515px;
 	width: 1280px;
 	margin: 0 auto;
 	background-color: :#2a2a2a;
@@ -522,7 +522,63 @@ h1{
 	margin-top: 15px;
 }
 .footer{
-	height: 326px;
+	height: 460px;
 	width: 100%;
-	background-color: #1d1d1d;
+	background-color: #171717;
+	margin-top: -40px;
+}
+.footercontent{
+	width: 980px;
+	margin: 0 auto;
+}
+.footerlogo{
+	float: left;
+	margin-top: 70px;
+}
+.footercontact{
+	clear: both;
+	float: left;
+}
+.footercontact h4{
+	font-size: 1.25em;
+	color: #fff;
+	font-weight: 600;
+}
+.footercontact p{
+	font-size: .875em;
+	color: #fff;
+	font-weight: 400;
+	margin-top: -15px;
+}
+.footergive{
+	float: left;
+	margin-left: 84px;
+}
+.footergive h4{
+	font-size: 1.25em;
+	color: #fff;
+	font-weight: 600;
+}
+.footergive p{
+	font-size: 1.1em;
+	color: #fff;
+	font-weight: 400;
+	margin-top: -5px;
+	text-decoration: underline;
+}
+.footerotherlinks{
+	float: left;
+	margin-left: 84px;
+}
+.footerotherlinks h4{
+	font-size: 1.25em;
+	color: #fff;
+	font-weight: 600;
+}
+.footerotherlinks p{
+	font-size: 1.1em;
+	color: #fff;
+	font-weight: 400;
+	margin-top: -5px;
+	text-decoration: underline;
 }
