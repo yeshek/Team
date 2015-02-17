@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+	<html>
+<head>	<title>DONATE BUTTON</title> </head>
+
+<body>
+
+
+	<button type="BUTTON" class="btn btn-default" id="donate">DONATE HERE</button>
+
+
+</body>
+	</html>
