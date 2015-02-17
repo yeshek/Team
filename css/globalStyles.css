@@ -497,12 +497,29 @@ h1{
 }
 .causes{
 	float: right;
-	width: 450px;
+	width: 420px;
 	height: 300px;
-	margin-left: 150px;
+	margin-right: 150px;
 	position: relative;
 	z-index: 2;
 	text-align: center;
+}
+.causes h3{
+	font-size: 1.7em;
+	font-weight: 400;
+	color: #fff;
+}
+.causes p{
+	font-size: 1.15em;
+	font-weight: 400;
+	color: #fff;
+	margin-top:-5px;
+}
+#causestextlink{
+	font-size: .875em;
+	font-weight: 600;
+	color: #06bb46;
+	margin-top: 15px;
 }
 .footer{
 	height: 326px;
